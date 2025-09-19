@@ -1,6 +1,6 @@
 #  Java Job Application Tracker
 
-A Java Swing-based desktop application to help job seekers track, manage, and analyze their job applications. The app uses an embedded H2 database and offers features like search, edit, report generation, and CSV export — all in a clean, multi-panel GUI.
+A Java Swing-based desktop application to help job seekers track, manage, and analyze their job applications. The app uses an embedded H2 database and offers features like search, edit, report generation, and CSV export, all in a clean, multi-panel GUI.
 
 ---
 
